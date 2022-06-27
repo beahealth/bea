@@ -4,6 +4,7 @@ None of your health data ever leaves your your device, so we can't be subpoenaed
 
 ## Tech details
 We're using Expo/React Native for native support on both iOS and Android.
+`expo start` to run the code
 
 ## How to help
 We need help! We're looking for React/React Native developers, UI/UX designers, marketers, and more.
